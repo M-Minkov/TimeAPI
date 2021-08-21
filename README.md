@@ -14,3 +14,8 @@
  
  
  {"utc":"Fri, 25 Dec 2015 00:00:00 GMT","unix":1451001600000}
+
+
+Calling: http://localhost:3000/api/
+
+Will give the current time, in the same format as shown above.
