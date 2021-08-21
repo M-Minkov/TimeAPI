@@ -1,5 +1,5 @@
 # TimeAPI_Project
- Project inspired by FreeCodeCamp, creating a time-stamp API.
+ Project inspired by FreeCodeCamp, creating a time-stamp API microservice.
  
  Pass a date into the /api/:date? parameter, to call a GET request, which will return a JSON file containing:
  
